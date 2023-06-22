@@ -1,0 +1,9 @@
+{
+    "type": "code",
+    "side": "server",
+    "modid": "fourplankslog",
+    "name": "Four Planks Log",
+    "description": "Every vanilla and modded log now gives 4 planks on crafting",
+    "authors": ["Craluminum2413"],
+    "version": "1.0.0"
+}
